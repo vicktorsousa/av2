@@ -1,0 +1,47 @@
+body{
+    background: gray;
+ 
+}
+.container-pai{
+    text-align: center;
+}
+.container-pai img{
+    position: relative;
+    top: 50px;
+ 
+}
+.container{
+    position: relative;
+    top: 100px;
+    width: 400px;
+    height: 350px;
+    text-align: center;
+    background: #fff;
+    padding-top: 8px;
+    border-radius: 10px;
+}
+.container form{
+    border-bottom: 1px solid #C0C0C0;
+}
+.form-control{
+    margin-top: 10px;
+    height: 50px;
+}
+.btn{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.btn-success{
+    width: 150px;
+    height: 50px;
+    margin-top: 25px;
+ 
+}
+.BOX{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #C0C0C0;
+    position: relative;
+    top: 50px;
+    
+}
